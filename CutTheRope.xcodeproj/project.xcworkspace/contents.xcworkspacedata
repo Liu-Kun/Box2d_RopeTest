@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "New Group">
+      <FileRef
+         location = "self:CutTheRope.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:../../fff/fff.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
